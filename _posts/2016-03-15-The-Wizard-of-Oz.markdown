@@ -1,18 +1,23 @@
 ---
-layout:     post
-title:      "The Wizard of Oz"
-subtitle:   "L. Frank Baum"
+layout: post
+title: The Wizard of Oz
+subtitle: L. Frank Baum
 active: journal
 image:
-  feature: "pc003.jpg"
-date:       2016-03-15
-header-img: "img/postcover/pc003.jpg"
-tags: [tag03, tag04]
-categories: [cat03, cat04]
+  feature: pc003.jpg
+date: {}
+header-img: img/postcover/pc003.jpg
+tags:
+  - tag03
+  - tag04
+categories:
+  - cat03
+  - cat04
 comments: false
+published: true
 ---
 
-<p>Now this same morning the Wicked Witch came to the door of her castle and looked out with her one eye that could see far off.  She saw all her wolves lying dead, and the strangers still traveling through her country.  This made her angrier than before, and she blew her silver whistle twice.</p>
+<p>Ahora bien, esta misma mañana la bruja traviesa llegó a la puerta de su castillo y miró con su único ojo que podía ver a lo lejos. Vio todos sus lobos que yacía muerto, y los extraños todavía viaja a través de su país. Esto la hace más enojado que antes, y sopló el silbato de plata dos veces.</p>
 
 <p>Straightway a great flock of wild crows came flying toward her, enough to darken the sky.</p>
 
