@@ -1,7 +1,7 @@
 # Site settings
 title: Test PHOTORAMA
 email: ""
-description: "Photo Journal"
+description: "Test Jekyll & Prose"
 url: "http://SaulGit.github.io"
 baseurl: "/photorama"
 facebook_username: ""
