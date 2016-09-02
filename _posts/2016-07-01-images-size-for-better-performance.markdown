@@ -12,7 +12,7 @@ published: true
 ---
 ![17_1000.jpg]({{site.baseurl}}/_posts/17_1000.jpg)
 
-<p>I would like to thank[thank you](github.com) <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
+I would like to thank[thank you](github.com) <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.
 
 > Is blog image performance necessary?
 > 
