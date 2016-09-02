@@ -5,7 +5,7 @@ subtitle: L. Frank Baum
 active: journal
 image:
   feature: pc003.jpg
-date: {}
+date: 2016-03-15T00:00:00.000Z
 header-img: img/postcover/pc003.jpg
 tags:
   - tag03
