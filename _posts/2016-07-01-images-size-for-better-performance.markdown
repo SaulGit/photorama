@@ -1,16 +1,18 @@
 ---
-layout: "post"
-title: "BLOG IMAGE PERFORMANCE IS NECESSARY"
-subtitle: "Image format and what Is the Ideal File Size for an Image?"
-active: "journal"
+layout: post
+title: BLOG IMAGE PERFORMANCE IS NECESSARY
+subtitle: Image format and what Is the Ideal File Size for an Image?
+active: journal
 image:
-  feature: "pc008.jpg"
-date: "2016-02-01"
-header-img: "img/postcover/pc008.jpg"
-comments: "true"
+  feature: pc008.jpg
+date: '2016-02-01'
+header-img: img/postcover/pc008.jpg
+comments: 'true'
+published: true
 ---
+![17_1000.jpg]({{site.baseurl}}/_posts/17_1000.jpg)
 
-<p>I would like to thank <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
+<p>I would like to thank[thank you](github.com) <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
 
 > Is blog image performance necessary?
 > 
