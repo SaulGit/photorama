@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: Test PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
+url: "http://SaulGit.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "http://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "http://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://SaulGit.github.io/photorama/gallery/"  
+  - JOURNAL: "http://SaulGit.github.io/photorama/journal/"
+  - ABOUT: "http://SaulGit.github.io/photorama/about/"
 
 # All translation keys
 translations:
